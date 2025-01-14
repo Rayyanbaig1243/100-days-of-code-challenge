@@ -1222,3 +1222,5 @@ Learn more about firebase from my blog posts:
 (c) T Aswin Barath
 
 Licensed under the [MIT License](LICENSE).
+
+## HOW TO CONTRIBUTE
